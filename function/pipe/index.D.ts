@@ -1,0 +1,3 @@
+declare function pipe (
+
+): any;
